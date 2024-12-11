@@ -125,7 +125,7 @@ l\_pcrs\_role
 
 l\_pcrs\_livrable
 
-<table><thead><tr><th width="259">Valeur</th><th width="132.33333333333331">Alias</th><th>Définition</th></tr></thead><tbody><tr><td>image/tiff</td><td>geotiff</td><td>Livrable GeoTIFF</td></tr><tr><td>image/jp2</td><td>jpeg2000</td><td>Livrable Jpeg 2000</td></tr><tr><td>application/gml+xml</td><td>gml</td><td>Livrable GML vecteur</td></tr><tr><td>image/x-dxf</td><td>dxf</td><td>Livrable DXF vecteur</td></tr><tr><td>image/x-dwg</td><td>dwg</td><td>Livrable DWG vecteur</td></tr></tbody></table>
+<table><thead><tr><th width="259">Valeur</th><th width="132.33333333333331">Alias</th><th>Définition</th></tr></thead><tbody><tr><td>image/tiff</td><td>geotiff</td><td>Livrable GeoTIFF</td></tr><tr><td>image/jp2</td><td>jpeg2000</td><td>Livrable Jpeg 2000</td></tr><tr><td>application/gml+xml</td><td>gml</td><td>Livrable GML vecteur</td></tr><tr><td>image/x-dxf</td><td>dxf</td><td>Livrable DXF vecteur</td></tr><tr><td>image/x-dwg</td><td>dwg</td><td>Livrable DWG vecteur</td></tr><tr><td><mark style="background-color:green;">application/geopackage+sqlite3</mark></td><td>gpkg</td><td>Livrable Geopackage vecteur</td></tr></tbody></table>
 
 ### Licence des livrables
 
