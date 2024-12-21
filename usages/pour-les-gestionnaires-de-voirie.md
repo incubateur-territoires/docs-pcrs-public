@@ -26,6 +26,12 @@ Le PCRS permet d'effectuer différentes mesures de distance permettant d'évalue
 
 Il est également possible d'y mesurer des surfaces (parkings, carrefours...)
 
+### Planification de convois exceptionnels
+
+Quelle que soit la nature du PCRS (imagerie ou données vectorielles), il peut être utilisé plus particulièrement au cas d'usage ci-dessus comme aide à la planification de convois exceptionnels.
+
+Il va permettre de mesurer l'espace entre deux bâtiments ou la proximité entre des obstacles et la voirie par exemple.
+
 ### Gestion du marquage horizontal
 
 Le PCRS image expose l'ensemble des marquages horizontaux à de meilleurs résolutions et précision que toute autre orthophotographie.
@@ -38,4 +44,4 @@ Au même titre que le marquage au sol, le PCRS image expose également de nombre
 
 
 
-{% file src="../.gitbook/assets/prez_voirie.pdf" %}
+{% file src="../.gitbook/assets/prez_voirie (1).pdf" %}

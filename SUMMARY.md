@@ -37,6 +37,7 @@
 * [Pour les services de secours](usages/pour-les-services-de-secours.md)
 * [Pour les gestionnaires de voirie](usages/pour-les-gestionnaires-de-voirie.md)
 * [Pour les exploitants télécoms](usages/pour-les-exploitants-telecoms.md)
+* [Gestion foncière et environnementale](usages/gestion-fonciere-et-environnementale.md)
 
 ## Suivi des projets
 
