@@ -23,4 +23,4 @@ Le Plan de Corps de Rue Simplifié est un élément important de la réglementat
 
 
 
-<figure><img src=".gitbook/assets/pcrs_doc.png" alt=""><figcaption><p>Différences entre PCRS image et vecteur</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pcrs_doc (1).png" alt=""><figcaption><p>Différences entre PCRS image et vecteur</p></figcaption></figure>
