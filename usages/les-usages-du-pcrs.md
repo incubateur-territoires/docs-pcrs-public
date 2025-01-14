@@ -12,7 +12,7 @@ Un de ces usages vous intéressent et vous vous demandez **comment accéder aux 
 
 Nous documentons plusieurs moyens pour vous saisir des données nécessaires sur [une page dédiée](../les-projets-pcrs/acceder-aux-donnees.md).
 
-
+Vous trouverez également en ligne plusieurs vidéos illustratives comme [cette présentation du 9 novembre 2017](https://www.youtube.com/watch?v=WHvHcjL5p30) par le CRAIG.
 
 Cette page et nos documents utilisent les iconographies issues des sources suivantes
 
