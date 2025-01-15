@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Espace documentaire](README.md)
+* [Ressources documentaires PCRS](README.md)
 
 ## Accompagnement ANCT
 

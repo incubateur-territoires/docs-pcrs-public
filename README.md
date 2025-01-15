@@ -1,8 +1,10 @@
 ---
-description: Contenu documentaire produit dans le cadre de la startup d'état OpenPCRS
+description: Contenu documentaire produit dans le cadre de la startup d'état PCRS
 ---
 
-# Espace documentaire
+# Ressources documentaires PCRS
+
+<figure><img src=".gitbook/assets/anct-pcrs.png" alt=""><figcaption></figcaption></figure>
 
 Cet espace documentaire rassemble de nombreuses ressources à propos du Plan de Corps de Rue Simplifié (PCRS).
 
@@ -17,7 +19,7 @@ Le Plan de Corps de Rue Simplifié est un référentiel topographique, **un fond
 Le PCRS est d'une précision de 10 centimètres, c'est à dire que chacun de ses points, en particulier ceux du corps de rue, est situé au plus à 10 centimètres de sa position réelle dans le système de coordonnées de référence.\
 Les vues aériennes sont d'une résolution de 5 centimètres le cas échéant.
 
-Il est produit au cours de projets locaux, selon une gouvernance territoriale. Chaque porteur de projet choisi les modalités qui coïncident le mieux avec les intérêts du territoire concerné. Nous proposons dans cette documentation les connaissances utiles à la conduite et la compréhension de ces projets.
+Il est produit au cours de projets locaux, selon une gouvernance territoriale avec de [multiples acteurs](contexte/acteurs/). Chaque porteur de projet choisi les modalités qui coïncident le mieux avec les intérêts du territoire concerné. Nous proposons dans cette documentation les connaissances utiles à la conduite et la compréhension de ces projets.
 
 Le Plan de Corps de Rue Simplifié est un élément important de la réglementation anti-endommagement des réseaux, [expliquée](https://www.youtube.com/watch?v=vWneO6kpJxs) par certains gestionnaires de réseaux concernés [en vidéo](https://www.youtube.com/watch?v=vWneO6kpJxs).
 
