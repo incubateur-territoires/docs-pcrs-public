@@ -8,8 +8,6 @@ description: Notre outil de mise en valeur des stockages locaux
 
 [Un atelier](../ateliers-et-webinaires/publication-et-diffusion-12-octobre-2023.md) a notamment eu lieu pour annoncer cette disponibilité et recueillir les impressions des porteurs de projet.
 
-<mark style="background-color:purple;">Dans le cas où vous souhaiteriez évoquer un problème de prise en main ou de compréhension du fonctionnement, nous nous tenons à votre disposition</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**tous les jeudi matin de 10h à 12h**</mark><mark style="background-color:purple;">.</mark> [<mark style="background-color:purple;">Inscrivez-vous en ligne</mark>](https://airtable.com/appYqFx9KzyHlZwtF/shrOUv71VKlKhYhug) <mark style="background-color:purple;">pour participer !</mark>
-
 ## Préalables
 
 L'outil que nous proposons permet la mise en relation d'utilisateurs avec les lieux habituels de stockage des livrables PCRS.
