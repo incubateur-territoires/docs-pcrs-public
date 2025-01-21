@@ -4,7 +4,7 @@ description: Compte rendu de l'atelier de rencontre avec les porteurs de projets
 
 # Porteurs de projets - 19 janvier 2023
 
-[**Le replay**](https://nextcloud.datactivist.coop/s/gs9azxYjfpR2gQf) est disponible en ligne.\
+[**Le replay**](https://tube.numerique.gouv.fr/w/9ekFHxwJ1Apm9jVFVR7wHT) est disponible en ligne.\
 **Le support** est disponible au bas du présent compte-rendu.
 
 **Les discussions continuent** [**sur le forum**](https://forum.pcrs.beta.gouv.fr/)

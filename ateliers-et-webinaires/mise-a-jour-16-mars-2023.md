@@ -4,7 +4,7 @@
 
 Plus de 60 participants.
 
-[**Le replay**](https://nextcloud.datactivist.coop/s/XTELtCyfR8MWzPx) est disponible en ligne : \
+[**Le replay**](https://tube.numerique.gouv.fr/w/6PCE6evAftvr4BjZHb3SHS) est disponible en ligne : \
 **Le support** est disponible au bas du présent compte-rendu.
 
 **Les discussions continuent** [**sur le forum**](https://forum.pcrs.beta.gouv.fr/)

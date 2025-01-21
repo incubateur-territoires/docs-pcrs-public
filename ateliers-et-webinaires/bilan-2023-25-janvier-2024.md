@@ -4,14 +4,14 @@
 
 Plus de **90 participants**
 
-Sont disponibles en ligne : &#x20;
+[**Le replay de la conférence**](https://tube.numerique.gouv.fr/w/hFJTrzctSx3rWKby8qcAJW) est disponible en ligne\
 
-[**Le replay de la conférence**](https://nextcloud.datactivist.coop/s/zTGGymPaKzTtq7H) est disponible en ligne\
-[**Les supports**](https://nextcloud.datactivist.coop/s/zENQF2Ax9A46jaR) sont disponibles dans un répertoire particulier
 
 **Les discussions continuent** [**sur le forum**](https://forum.pcrs.beta.gouv.fr/)
 
 ## **Retour sur les échanges**
+
+{% file src="../.gitbook/assets/20240125_prez_anct.pdf" %}
 
 ### Introduction par Bertrand Monthubert
 
@@ -53,11 +53,15 @@ En région Sud aujourd'hui, les Bouches-du-Rhône et les Alpes Maritimes ont lan
 
 Il est à souligner l'importance de l'accompagnement dans ces projets, notamment grâce aux contacts fournis par la startup PCRS. Les défis rencontrés pour promouvoir l'intérêt des PCRS dans les territoires sont importants et la rédaction d'un document argumentaire sur les avantages des orthophotos à très haute résolution est en cours.
 
+{% file src="../.gitbook/assets/tony_emery_region_sud_20240125.pdf" %}
+
 ### Frédéric Adé (SYDESL) - La vie du projet PCRS du Syndicat Départemental d'Energie de Saône et Loire
 
 Le PCRS est utilisé dans l'anti-endommagement, mais il est également exploité pour d'autres usages variés, même ceux qui ne sont pas initialement prévus.
 
 Les difficultés financières liées à la mise à jour du PCRS sont évoquées, ainsi que les défis pour obtenir le soutien financier des différentes parties prenantes, notamment des fournisseurs de solution et des acteurs régionaux.
+
+{% file src="../.gitbook/assets/Frederic_ade_SYDESL_ANCT-PCRS.pdf" %}
 
 ### François Lacombe (ANCT) - Une année riche de financements animations et fonctionnalités
 
@@ -117,6 +121,8 @@ Point sur la production nationale des PCRS : environ 50% de la production actuel
 
 Pour 2024, l'IGN prévoit de finaliser 7 ou 8 nouveaux départements et de se concentrer sur des discussions avec 11 autres.&#x20;
 
+{% file src="../.gitbook/assets/Guillaume_Valtat_IGN_20240125-PCRS-ANCT 1.pdf" %}
+
 ### Guillaume Malard (Enedis) - L'implication d'Enedis dans les derniers projets à lancer
 
 La politique nationale est élaborée au niveau de la direction technique, tandis que la tenue à jour de la cartographie du réseau est gérée localement par les agences cartographies. Le PCRS est d'une grande importance pour ENEDIS, à la fois comme fond de plan pour les DT-DICT (Déclarations de Travaux) et pour le géoréférencement massif des réseaux électriques souterrains.
@@ -124,6 +130,8 @@ La politique nationale est élaborée au niveau de la direction technique, tandi
 Différentes conventions de mutualisation des fonds de plan sont signées par ENEDIS, ainsi que les projets en cours pour étendre cette mutualisation dans les zones non couvertes. Le partage des données d'acquisition avec la start-up d'État PCRS facilite le géoréférencement.
 
 Concernant le financement du PCRS, ENEDIS peut être copropriétaire du PCRS ou avoir une licence d'utilisation, en fonction du mode de convention et de financement.
+
+{% file src="../.gitbook/assets/Guillaume_Malard_Enedis_20240125.pdf" %}
 
 ## **Prochaines étapes**
 

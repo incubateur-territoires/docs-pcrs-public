@@ -2,25 +2,29 @@
 
 Plus de **80 participants**
 
-[**Le replay de l'atelier**](https://nextcloud.datactivist.coop/s/ebCESSX6Yx2b2Mf) est disponible en ligne
+[**Le replay de l'atelier**](https://tube.numerique.gouv.fr/w/x32b5wb4wH8HLAwQ3CmXyJ) est disponible en ligne
 
 **Les discussions continuent** [**sur le forum**](https://forum.pcrs.beta.gouv.fr/)
 
-## <mark style="background-color:green;">**Introduction**</mark>
+## **Introduction**
 
-[Le support de présentation](https://nextcloud.datactivist.coop/s/4X5YpsAWTaiqgNC) de l'ANCT.
 
-## <mark style="background-color:green;">**Témoignages**</mark>
 
-### **Bertrand Gervais** de [**Someware**](https://www.someware.fr/),
+{% file src="../.gitbook/assets/atelier_2024-05-14.pdf" %}
 
-[Le support de présentation](https://nextcloud.datactivist.coop/s/qjq8btBxsDnwSKS) de Bertrand.
+## **Témoignages**
+
+### **Bertrand Gervais** de [**Someware**](https://www.someware.fr/)
 
 Someware est une entreprise spécialisée dans les outils logiciels pour les données géographiques. L'entreprise réalise un travail sur les données d'accessibilité PMR et , dans ce cadre, collabore avec Rennes Métropole pour créer des **graphes navigables pour piétons** en utilisant des données topographiques. Le processus intègre en continue des changements de données et les calculs nécessaires pour évaluer l'accessibilité des trottoirs et autres infrastructures urbaines.
 
 Bertrand Gervais a également présenté l'initiative Rudy, qui vise à créer des graphes piétons pour toute la métropole de Rennes, en utilisant les données RTGE et PCRS. Il a souligné l'importance de standards de données et d'open data pour améliorer l'accessibilité urbaine.
 
 Pendant les questions, l'intervenant est revenu sur la précision des données altimétriques et la gestion des obstacles pour les PMR. Il a mentionné également un projet de collecteur de données d'accessibilité pour le ministère des Transports.
+
+
+
+{% file src="../.gitbook/assets/someware_2024-05-14.pdf" %}
 
 ### **Stéphane Péneau de** [**Carto'Cité**](https://cartocite.fr/)
 
@@ -30,7 +34,7 @@ Stéphane Péneau a comparé des images de la BD Ortho et du PCRS raster, montra
 
 Enfin, l'intervenant à évoqué la contribution bénévole à OpenStreetMap, en soulignant les défis posés par l'actualisation des données et la disponibilité des images sous licence libre.
 
-## <mark style="background-color:green;">L’outil de publication en pratique</mark>
+## L’outil de publication en pratique
 
 François Lacombe a souligné l'importance de publier ces données, car elles sont coûteuses à produire et doivent être partagées pour maximiser leur valeur. La publication répond également aux obligations légales et aide l'IGN à diffuser des métadonnées précieuses. Le nouvel outil mis à disposition des porteur de projet par la start-up d’État facilite le téléchargement des livrables en se connectant à un stockage local, évitant ainsi des développements coûteux pour les collectivités.
 
@@ -38,7 +42,7 @@ L'outil permet de visualiser le maillage du PCRS, d'accéder aux métadonnées e
 
 L'outil se concentre d'abord sur les raster, mais l'adaptation pour les vecteurs est prévue.
 
-## <mark style="background-color:green;">Questions/réponses</mark>
+## Questions/réponses
 
 Actuellement, seuls les formats GML sont envisagés pour les données vecteurs, tandis que le format DWG, plus complexe à gérer, pourrait être supporté uniquement sous réserve des capacités techniques. Le format testé pour la métropole de Lille est du GML.
 

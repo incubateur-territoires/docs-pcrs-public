@@ -4,12 +4,7 @@
 
 Environ **90 participants**
 
-Sont disponible en ligne
-
-* [Le replay de l'atelier](https://nextcloud.datactivist.coop/s/jFbwJw8EM98qMaW)
-* [Le support de présentation](https://nextcloud.datactivist.coop/s/kmESrN4eZnAFBBS)
-* [Le support de présentation de la CA Cotentin sur les usages des données raster ](https://datasig.fr/communication/lecotentin/CRIGE_Normandie_PCRS_raster_usages_CA_Cotentin.pdf)
-* [Le support de présentation du SDEF sur les usages du vecteur et autres perspectives](https://nextcloud.datactivist.coop/s/RK5qCGm5k4sSPGF)
+[**Le replay de l'atelier**](https://tube.numerique.gouv.fr/w/nrPbm9SoYVYSaC2oxje2Qz) est disponible en ligne
 
 **Les discussions continuent** [**sur le forum**](https://forum.pcrs.beta.gouv.fr/)
 
@@ -69,3 +64,11 @@ La part des données PCRS dans l'ensemble de ces projets reste encore à étudie
 * Manque de garantie sur le cofinancement
 * Le budget nécessaire sur le temps long pour maintenir un PCRS à jour
 * Pas de mutualisation nationale du financement (...encore)
+
+
+
+{% file src="../.gitbook/assets/atelier_2023-06-30.pdf" %}
+
+{% file src="../.gitbook/assets/2023-06-30_Presentation_Datactivist.pdf" %}
+
+{% file src="../.gitbook/assets/CRIGE_Normandie_PCRS_raster_usages_CA_Cotentin.pdf" %}

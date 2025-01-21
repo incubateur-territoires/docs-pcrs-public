@@ -4,9 +4,7 @@
 
 Plus de **100** participants
 
-Le replay est disponible en ligne : [https://bbb-dinum-scalelite.visio.education.fr/presentation/37efb2e0bd71bae71412b30d926721fe687d6133-1683877561616/meeting.mp4](https://bbb-dinum-scalelite.visio.education.fr/presentation/37efb2e0bd71bae71412b30d926721fe687d6133-1683877561616/meeting.mp4)
-
-Le support de présentation de la matinée est [disponible ici.](https://nextcloud.datactivist.coop/s/XsGoXPxPY7dBs7y)
+Le replay de l'atelier n'est plus disponible
 
 ## Avancées de la startup d’État
 
@@ -18,9 +16,11 @@ Comme annoncé dès le début de notre initiative, les données brutes issues du
 
 Un formulaire pour faire remonter les données de suivi est en cours de mise en service. Tous les porteurs de projet pourront alimenter en autonomie la base de données de suivi. Un lien de connexion sera envoyé très prochainement.
 
+{% file src="../.gitbook/assets/atelier_controle_qualite_2023-05-12.pdf" %}
+
 ## Présentation du contrôle qualité des rasters par le CRAIG
 
-Le support de présentation [est visible ici](https://nextcloud.datactivist.coop/s/GMQF4DFiYRT6Rp8)
+{% file src="../.gitbook/assets/2023_ANCT_ControlesPCRS.pdf" %}
 
 ## Présentation du validateur des données vecteur par l'IGN
 

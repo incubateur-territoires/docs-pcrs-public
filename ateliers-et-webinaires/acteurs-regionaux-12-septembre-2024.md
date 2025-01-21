@@ -2,37 +2,27 @@
 
 Plus de <mark style="background-color:orange;">**175 participants**</mark>
 
-[**Le replay de l'atelier**](https://nextcloud.datactivist.coop/s/JS9gEqp4ApBpacy) est disponible en ligne
+[**Le replay de l'atelier**](https://tube.numerique.gouv.fr/w/bSkWhX9iH8uPCA8iVyUrZv) est disponible en ligne
 
 **Les discussions continuent** [**sur le forum**](https://forum.pcrs.beta.gouv.fr/)
 
-## <mark style="background-color:green;">**Déroulé du webinaire**</mark>
+## **Déroulé du webinaire**
 
-**Introduction** : François Lacombe, Rosaine Buannic et Gwenaël Martin (Afigéo)
+### **Introduction**
 
-**Temps 1** : La gouvernance des projets à l’échelle régionale : Quel accompagnement possible des structures régionales?
-
-&#x20;\- Région Hauts-de-France, Vincent FABRY, Administrateur des systèmes d'information
-
-&#x20;\- DoTeRR Centre Val-de Loire, Seckou SADIO, Co-animateur du groupe de travail PCRS
-
-**Temps 2** : Les financements CPER et FEDER : des leviers pour l'acquisition et la mise à jour
-
-\- Région Auvergne Rhône-Alpes, Corinne PELLION, Chargée de mission au service FEDER
-
-\- Région des Pays de la Loire, Christophe NICOLLE, Chef du Service Pilotage et Analyse des Données du Territoire - Direction de la Transformation Numérique, Laetitia SAHRAOUI-PENNUEN, Chargée de programme FEDER (TIC) - Service FEDER
-
-**Temps 3** : Promouvoir la donnée PCRS par les services régionaux
-
-&#x20;\- Région Île-de-France, Nathalie LEMOINE, Cheffe de projet GEO Île-de-France
-
-## <mark style="background-color:green;">**Introduction**</mark>
+**François Lacombe, Rosaine Buannic et Gwenaël Martin (Afigéo)**
 
 Le webinaire a pour objectif de mettre en lumière les acteurs régionaux impliqués dans le déploiement des PCRS, avec qui les organisateurs ont collaboré au cours de l'année écoulée. Ces acteurs jouent un rôle clé en tant que porteurs de projets, coordinateurs ou financeurs. Le webinaire vise à souligner ces différents rôles tout en favorisant l'échange autour de thèmes communs tels que la gouvernance et le financement, tout en mettant en avant les approches variées d'une région à une autre. L'événement se veut interactif, permettant à tous les participants d'échanger et de nourrir les réflexions présentées.
 
-## <mark style="background-color:green;">1 - La gouvernance des projets à l’échelle régionale : Quel accompagnement possible des structures régionales?</mark>
+{% file src="../.gitbook/assets/atelier_acteurs_région_2024-09-12.pdf" %}
 
-### **Région Hauts-de-France, Vincent FABRY**
+### **Temps 1** La gouvernance des projets à l’échelle régionale
+
+Quel accompagnement possible des structures régionales?
+
+#### Région Hauts-de-France
+
+Vincent FABRY, Administrateur des systèmes d'information
 
 Le **projet de PCRS Raster Régional** en région Hauts-de-France s'est développé à partir de l'observation en 2020 que les plans Corps de Rue Simplifiés (PCRS) existants étaient dispersés, principalement concentrés dans les agglomérations urbaines comme Lille, Compiègne, Lens, et les zones associées. Il manquait un dispositif de PCRS dans les zones rurales, alors que la région, à l'exception du département du Nord, est majoritairement rurale.
 
@@ -42,7 +32,11 @@ En 2021, une opportunité se présente avec la création d’un **fonds europée
 
 **Les défis rencontrés** comprenaient les contraintes météorologiques dans la région des Hauts-de-France, les limitations de vol dues aux aéroports de Roissy et de Beauvais, ainsi que la présence d’une zone interdite de survol autour de la base aérienne de Creil. Ces complications ont ralenti le projet et, dans certains cas, empêché l’envoi de certaines factures à l’Union européenne dans les délais requis.
 
-### DoTeRR Centre Val-de Loire, Seckou SADIO, Co-animateur du groupe de travail PCRS
+{% file src="../.gitbook/assets/1_20240912_PCRS_hauts_de_france.pdf" %}
+
+#### DoTeRR Centre Val-de Loire
+
+Seckou SADIO, Co-animateur du groupe de travail PCRS
 
 Le projet présenté vise à mutualiser l'acquisition d'une orthophoto haute précision de 5 cm pour le territoire du Centre-Val de Loire, dans le cadre de **DoTeRR**, co-animé par plusieurs acteurs locaux. Ce projet est issu d’une concertation menée depuis 2019, regroupant une trentaine de structures publiques et privées. Il s'intègre dans un réseau de réflexion collective sur des référentiels géomatiques comme le PCRS (Plan de Corps de Rue Simplifié) et le RTGE (Référentiel Géographique).
 
@@ -54,9 +48,15 @@ L’objectif principal est de **fournir un référentiel commun pour le territoi
 
 En conclusion, ce projet ambitieux se veut une opportunité de collaboration entre acteurs publics et privés pour développer des outils géomatiques à haute précision au service des territoires, tout en explorant des applications nouvelles comme l'IA pour la gestion des risques urbains.
 
-## <mark style="background-color:green;">2 - Les financements CPER et FEDER : des leviers pour l'acquisition et la mise à jour</mark>
+{% file src="../.gitbook/assets/2_20240912_PCRS_recia_cvl.pdf" %}
 
-### Région Auvergne Rhône-Alpes, Corinne PELLION, Chargée de mission au service FEDER
+### **Temps 2** : Les financements CPER et FEDER
+
+Des leviers pour l'acquisition et la mise à jour
+
+#### Région Auvergne Rhône-Alpes
+
+Corinne PELLION, Chargée de mission au service FEDER
 
 Couronne Pellion, chargée de mission au FEDER Auvergne-Rhône-Alpes, a présenté une opération d'acquisition de données de haute précision menée par le CRAIG pour la gestion des territoires de la région Auvergne-Rhône-Alpes. **Le projet, qui s'étend de 2022 à 2027, comprend quatre actions**, dont deux liées au PCRS, notamment sur la métropole de Lyon. **Le financement total de l'opération est de 3,9 millions d’euros, avec une aide européenne de 1,3 million d’euros.**
 
@@ -66,7 +66,13 @@ Cette opération s'inscrit dans le cadre du **programme 2021-2027, axé sur la n
 
 En conclusion, cette initiative renforce la capacité des territoires d'Auvergne-Rhône-Alpes à gérer efficacement leurs données géographiques, tout en simplifiant la gestion des fonds européens par l'utilisation de coûts simplifiés.
 
-### Région des Pays de la Loire, Christophe NICOLLE, Chef du Service Pilotage et Analyse des Données du Territoire - Direction de la Transformation Numérique, Laetitia SAHRAOUI-PENNUEN, Chargée de programme FEDER (TIC) - Service FEDER
+{% file src="../.gitbook/assets/3_20240912_PCRS_craig_aura.pdf" %}
+
+#### Région des Pays de la Loire
+
+Christophe NICOLLE, Chef du Service Pilotage et Analyse des Données du Territoire - Direction de la Transformation Numérique
+
+Laetitia SAHRAOUI-PENNUEN, Chargée de programme FEDER (TIC) - Service FEDER
 
 La présentation aborde les financements régionaux et européens, en particulier le FEDER, pour le soutien aux projets PCRS dans les régions françaises. L'intervenant, après avoir évoqué Géopal, la plateforme régionale d’information géographique en Pays de la Loire, souligne **l’importance des CPER pour financer ces projets.** Initialement, le programme Géopal a financé des projets de cadastre et de PLU, mais à partir de 2018, 1 million d'euros par an a été investi spécifiquement pour les projets PCRS.
 
@@ -76,11 +82,15 @@ La présentation aborde les financements régionaux et européens, en particulie
 
 Enfin, **le FEDER joue un rôle clé en tant qu’effet levier pour les projets PCRS, offrant un soutien supplémentaire aux financements régionaux et garantissant l'exécution réussie de projets structurants**. Ces projets permettent également aux autorités régionales de consommer leurs crédits européens, répondant ainsi aux attentes de la Commission européenne. À ce jour, aucun projet PCRS n'a encore été audité, mais cela reste une étape importante pour assurer la conformité des projets aux exigences européennes.
 
-## <mark style="background-color:green;">3 - Promouvoir la donnée PCRS par les services régionaux</mark>
+{% file src="../.gitbook/assets/4_20240912_PCRS_PDL.pdf" %}
 
-### Région Île-de-France, Nathalie LEMOINE, Cheffe de projet GEO Île-de-France
+### **Temps 3** : Promouvoir la donnée PCRS par les services régionaux
 
-e projet de France Haute Résolution en région Île-de-France vise à constituer un référentiel régional de données géographiques à très grande échelle, avec une dimension de mutualisation entre les acteurs publics et privés. La région Île-de-France, bien que densément peuplée et urbaine, est composée à 80 % d’espaces naturels et agricoles, et comporte de nombreuses zones interdites à la captation aérienne. La région a initié ce projet pour répondre aux besoins de transformation numérique, en coordonnant les différentes collectivités territoriales et en tenant compte de la diversité des acteurs et de la répartition des compétences.
+#### Région Île-de-France
+
+Nathalie LEMOINE, Cheffe de projet GEO Île-de-France
+
+Le projet de France Haute Résolution en région Île-de-France vise à constituer un référentiel régional de données géographiques à très grande échelle, avec une dimension de mutualisation entre les acteurs publics et privés. La région Île-de-France, bien que densément peuplée et urbaine, est composée à 80 % d’espaces naturels et agricoles, et comporte de nombreuses zones interdites à la captation aérienne. La région a initié ce projet pour répondre aux besoins de transformation numérique, en coordonnant les différentes collectivités territoriales et en tenant compte de la diversité des acteurs et de la répartition des compétences.
 
 Le projet s’appuie sur la plateforme Géo Île-de-France, un écosystème d’acteurs territoriaux, et vise à créer un référentiel de données à partir d'images aériennes à très haute résolution. Il inclut des aspects d’innovation technologique, comme l’utilisation de l’intelligence artificielle pour analyser les données, et se structure autour du concept de jumeau numérique, un levier d’innovation pour les collectivités.
 
@@ -91,3 +101,5 @@ Le financement du projet repose sur une mutualisation des ressources des départ
 L’objectif final est de produire des données géographiques massives et de haute qualité, disponibles en open data pour tous les acteurs publics et les collectivités. Le projet inclut également des marchés d’innovation pour développer des algorithmes basés sur l’intelligence artificielle. Le volet financier, complexe en raison du grand nombre d’acteurs impliqués, est géré par un groupement de commandes, et le projet est soutenu par des partenaires tels que l'IGN et l'Institut Paris Région.
 
 En conclusion, ce projet, bien qu’ambitieux et complexe, vise à répondre aux besoins des collectivités franciliennes en matière de données géographiques, tout en favorisant l’innovation technologique et la mutualisation des infrastructures.
+
+{% file src="../.gitbook/assets/5_20240912_PCRS_IDF.pdf" %}
