@@ -8,7 +8,7 @@ Les outils d'éditions mis en place permettent de contribuer au suivi du PCRS, s
 
 Ces outils sont avant tout destinés aux porteurs de projets et tout tiers que ces porteurs auront choisi d'habiliter. [Les données brutes](donnees-brutes.md) issues de cette contribution sont publiques et à disposition des tiers.
 
-<mark style="background-color:purple;">Dans le cas où vous souhaiteriez évoquer un problème de prise en main ou de compréhension du fonctionnement, nous nous tenons à votre disposition</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**tous les jeudi matin de 10h à 12h**</mark><mark style="background-color:purple;">.</mark> [<mark style="background-color:purple;">Inscrivez-vous en ligne</mark>](https://airtable.com/appYqFx9KzyHlZwtF/shrOUv71VKlKhYhug) <mark style="background-color:purple;">pour participer !</mark>
+[Un atelier ](https://docs.pcrs.beta.gouv.fr/ateliers-et-webinaires/suivi-des-projets-02-avril-2024)a notamment eu lieu pour expliquer la méthode de mise à jour proposée dans nos outils.
 
 ## Préalables
 
