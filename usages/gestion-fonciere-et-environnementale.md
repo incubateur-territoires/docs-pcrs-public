@@ -24,6 +24,8 @@ Par exemple des piscines ou des installations bâties sur un large territoire, a
 
 La résolution de l'imagerie permet de distinguer des détails en dessous de parois suffisamment translucides (donc hors couvert végétal) là où d'autres imageries de plus faible résolution pourrait entraîner une confusion avec d'autres installations.
 
+Retrouvez une illustration de ces usages dans [une présentation](https://tube.numerique.gouv.fr/w/sBFyzuUiEiGUxExH8XMaG6) faite au Service de la Documentation Nationale du Cadastre de la DGFip en novembre 2024.
+
 
 
 {% file src="../.gitbook/assets/prez_foncier_environnement.pdf" %}
