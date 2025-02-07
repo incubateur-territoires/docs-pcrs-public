@@ -54,6 +54,7 @@
 
 ## Ateliers et webinaires
 
+* [Mise à jour - 6 février 2025](ateliers-et-webinaires/mise-a-jour-6-fevrier-2025.md)
 * [Acteurs régionaux - 12 septembre 2024](ateliers-et-webinaires/acteurs-regionaux-12-septembre-2024.md)
 * [Publication des livrables - 14 mai 2024](ateliers-et-webinaires/publication-des-livrables-14-mai-2024.md)
 * [Suivi des projets - 02 avril 2024](ateliers-et-webinaires/suivi-des-projets-02-avril-2024.md)
