@@ -12,9 +12,11 @@ Nous ne manquerons pas de mettre à jour ce document au gré de nos investigatio
 
 ## Définition de l'APLC
 
-L'arrêté du 15 février 2012 évoque le titre d'Autorité Publique Locale Compétente pour désigner les porteurs locaux de projets PCRS.&#x20;
+L'arrêté du 15 février 2012 évoque le titre d'Autorité Publique Locale Compétente pour désigner les porteurs locaux de projets PCRS.
 
-Le texte ne défini pas le périmètre ni les collectivités qui peuvent prétendre à un tel titre. Ce flou rend plus difficile l'affirmation de cette compétence par les collectivités et augmente le risque de recouvrement entre projets portés par deux organisations voisines.
+Nous considérons la définition d'Autorité Publique au sens de l'article [L.124-3 du code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006832924) pour les organismes qui peuvent prétendre à ce titre.
+
+En revanche, les définitions des termes **Locale** et **Compétente** ne sont pas établies par la réglementation et cela peut ainsi provoquer des recouvrements entre organisations correspondantes à la définition large des Autorités Publiques. Cela rend difficile l'affirmation du titre et de la bonne identification des acteurs sur un territoire donné. Nous sommes ainsi en attente d'une meilleure définition réglementaire.
 
 ## La disponibilité du fond de plan
 
@@ -22,7 +24,7 @@ L'article 7 de l'arrêté du 15 février 2012 stipule que "Le fond de plan emplo
 
 Cette définition est pourtant lourde de sens. Si son absence laisse libre court aux solutions techniques pour l'accès aux fonds de plan par les utilisateurs, en particulier les gestionnaires de réseaux, elle empêche une diffusion correcte de l'information de disponibilité. Comment avoir recours au meilleur fond de plan dont j'ignore jusqu'à l'existence ?
 
-Sans présager des outils à mettre en oeuvre pour la diffusion du PCRS, il faudrait au moins définir la disponibilité comme étant la fin d'un projet PCRS. Ce qui permettrait de définir un catalogue unifié au sein duquel la disponibilité pourrait être certifiée.
+Sans présager des outils à mettre en œuvre pour la diffusion du PCRS, il faudrait au moins définir la disponibilité comme étant la fin d'un projet PCRS. Ce qui permettrait de définir un catalogue unifié au sein duquel la disponibilité pourrait être certifiée.
 
 ## L'échéance de 2026
 

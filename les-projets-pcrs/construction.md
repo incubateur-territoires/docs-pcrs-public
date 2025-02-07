@@ -31,7 +31,9 @@ Vous êtes autonomes pour signaler l'imminence de votre projet et des évolution
 
 Il est peut être utile d'affirmer votre rôle d'Autorité Publique Locale Compétente pour la réalisation d'un projet PCRS. Ce titre, peu défini par le cadre réglementaire, n'est ni obligatoire ni soumis à autorisation et fait l'objet d'une simple déclaration. Il représente la charge de la maîtrise d'ouvrage de la réalisation du plan à venir.
 
-La plupart des Autorités existantes ont pris différents moyens pour affirmer ce rôle, dont nous listons ici quelques exemples :
+Les **Autorités Publiques** définies par [l'article L.124-3 du code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006832924) peuvent légitimement prétendre au titre d'APLC. Il reste à définir le sens des termes Locale et Compétente comme nous l'évoquons dans nos [questionnements réglementaires](../contexte/reglementation/questionnements-reglementaires.md#definition-de-laplc).
+
+La plupart des **Autorités Publiques** existantes ont pris différents moyens pour affirmer ce rôle, dont nous listons ici quelques exemples :
 
 * Le faire figurer dans ses statuts, comme le Syane (Haute-Savoie) dans sa [délibération 2020-133 du 23 octobre 2020](https://syane.fr/wp-content/uploads/2022/11/Statuts_Syane_23102020-1.pdf) (§5.1.3). Le document est soumis au contrôle de légalité et enregistré en Préfecture.
 * Prendre une délibération spécifique, comme la métropole d'Aix-Marseille le 5 mai 2022 avec [la délibération IVIS-001-11722/22/CM](https://deliberations.ampmetropole.fr/documents/metropole/deliberations/2022/05/05/DECISION/20366.pdf). Le document est également soumis au contrôle de légalité et enregistré en Préfecture.
