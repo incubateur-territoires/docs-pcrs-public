@@ -22,7 +22,7 @@ Il est nécessaire de disposer de ce référentiel d'ici début 2026 sur l'ensem
 
 Certains de ces utilisateurs investissaient massivement et de manière individuelle dans la maintenance de leur propre fond de plan. Ils pourrons désormais et progressivement migrer sur le référentiel unifié.
 
-Il s'agit par exemple d'Enedis, GRDF, Orange, Véolia, Suez, Idex et bien d'autres occupant du domaine public.
+Il s'agit par exemple d'Enedis, GRDF, Orange, Véolia, Suez, Idex et bien d'autres occupants du domaine public.
 
 ## Cadre spatio-temporel
 
