@@ -14,6 +14,8 @@ L'outil que nous proposons permet la mise en relation d'utilisateurs avec les li
 
 Ces fichiers doivent en premier lieu se trouver sur un serveur HTTP(S), FTP(S) ou SFTP mis en place par le porteur de projet avant de pouvoir le déclarer dans [le suivi des projets](edition-des-donnees.md).
 
+Les fichiers doivent être non compressés ou suivant l'une des compressions prévues dans la liste l\_pcrs\_compressions du [modèle de données](modele-de-donnees/#compression-des-livrables) en vigueur.
+
 ### Disposer d'un serveur en ligne
 
 Le service déployé par notre équipe ne prévoit pas une récupération des fichiers pour les placer en ligne. Il assure la présentation de contenus présents sur des serveurs existants. Votre territoire doit donc se munir d'un tel serveur d'après les protocoles supportés avant de le déclarer comme indiqué dans les étapes suivantes.
@@ -50,5 +52,5 @@ Nous restituons notamment les géométries des emprises de chaque livrable. Elle
 
 <figure><img src="../.gitbook/assets/Capture d’écran du 2024-06-24 17-39-55.png" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/notice_stockage (3).pdf" %}
+{% file src="../.gitbook/assets/notice_stockage (4).pdf" %}
 
